@@ -11,7 +11,7 @@ import time
 This code implements a vae with Gaussian prior and Gaussian likelihood based on zhusuan
     * the framework has been setup, please copy the ** vae ** and ** q_net ** functions from vae_basic_mlss.py file at first
     * you only need to modify the ** vae ** function to change the likelihood function from Bernoulli to Gaussian
-    * you may see some detailed instructions in the comments, for detailed usage of zhusuan, please see the documentation on http://zhusuan.readthedocs.io/en/latest/concepts.html
+    * for detailed usage of zhusuan, please see the documentation on http://zhusuan.readthedocs.io/en/latest/concepts.html
 '''
 
 '''
